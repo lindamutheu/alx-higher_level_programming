@@ -1,4 +1,6 @@
+guillaume@ubuntu:~/0x02$ cat variable_load_5.py
 #!/usr/bin/python3
-if __name__ == "__main__":
-    from variable_load_5 import a
-    print("{:d}".format(a))
+a = 98
+"""Simple variable
+"""
+
